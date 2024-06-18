@@ -1,1 +1,2 @@
-HELLOE WORLD
+Hello, World! 
+This is an example file.
